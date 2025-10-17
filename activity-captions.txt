@@ -1,0 +1,1 @@
+Demonstration of the GitHub basics operations with pixelated pet images.
